@@ -23,8 +23,7 @@ Check out my appearances at the Design Automation Conference below:
 #### 2020
 - **Presentation Title:** DAC 2020: A next-generation, Cloud based EDA environment built easily in AWS
   - **Description:** Discussed optimizations for EDA license management, shared storage and cost.
-  - **Link:** []
-              [View Presentation](Cliosoft_AWS_DAC_2020_poster.pdf)
+  - **Link:**[View Presentation](Cliosoft_AWS_DAC_2020_poster.pdf)
   
 #### 2019
 - **Presentation Title:** DAC 2019: Design Infrastructure Alley: Successfully moving design environment to cloud
