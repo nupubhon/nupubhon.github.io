@@ -10,7 +10,7 @@ Check out my appearances at the Design Automation Conference below:
 
 #### 2024
 - **Presentation Title:** DAC 2024: True-Hybrid SaaS Cloud Architectures for EDA workloads
-  - **Description:** Presented latest research on EDA workflows with design aware data exchange in hybrid mode with a true-hybrid SaaS architecture
+  - **Description:** Presenting latest research on EDA workflows with design aware data exchange in hybrid mode with a true-hybrid SaaS architecture
  <- **Link:** [View Presentation](#)>
 
 #### 2022
