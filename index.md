@@ -1,12 +1,12 @@
 # Welcome to My Personal Website
 
 Hi, I'm Nupur!
-Innovative Semiconductor Product Manager | Expertise in Design Infrastructure | Automation Enthusiast | Co-Author of AWS-Cliosoft Whitepaper
+
+Innovative EDA Product Manager | Expertise in Design Infrastructure | Automation Enthusiast | Co-Author of AWS-Cliosoft Whitepaper
 
 ## DAC Appearances
 
 Check out my appearances at the Design Automation Conference below:
-### DAC Appearances
 
 #### 2024
 - **Presentation Title:** DAC 2024: True-Hybrid SaaS Cloud Architectures for EDA workloads
@@ -30,7 +30,7 @@ Check out my appearances at the Design Automation Conference below:
   
  - **Whitepaper Title:** Best Practices for Deploying SOS on AWS
   - **Description:** Discussed key infrastructure recommendations and performance analysis with on-premises for using Cliosoft SOS design data management for IC design data on AWS cloud.
-  - **Link:** [a link](https://docs.aws.amazon.com/whitepapers/latest/best-practices-deploying-cliosoft-sos-on-aws/contributors.html) 
+  - **Link:** [AWS-ClioSoft Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/best-practices-deploying-cliosoft-sos-on-aws/contributors.html) 
 
 #### 2018
 - **Presentation Title:** DAC 2018: Cadence Cloud Theatre: Reusing your Analog IPs Successfully for tapeouts
