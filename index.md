@@ -2,6 +2,13 @@
 
 Hi, I'm Nupur!
 
+Hey there! I'm Nupur Bhonge, an EDA Infrastructure Specialist with a passion for blending tech know-how with creative solutions! I specialize in crafting efficient workflows and seamless architectures for the chip design universe, using EDA-specific workflows and diving deep into analog, digital, and mixed-signal realms. When I'm not orchestrating network symphonies, you'll find me embracing the chaos as a mom to a hyper-energetic and fun toddler, exploring the shelves of libraries, hiking trails, dancing to Indian Classical music, and showering love on every dog I meet.
+Don't hesitate to drop me a line — I'm all ears for new ideas and adventures!
+
+You can reach me at - 
+Email - bhonge.nupur@gmail.com
+Linkedin - www.linkedin.com/in/nupurbhonge
+
 Innovative EDA Product Manager | Expertise in Design Infrastructure |  Co-Author of AWS-Cliosoft Whitepaper
 
 ## DAC Appearances
@@ -29,7 +36,7 @@ Check out my appearances at the Design Automation Conference below:
 - **Presentation Title:** DAC 2019: Design Infrastructure Alley: Successfully moving design environment to cloud
   - **Description:** Discussed migration strategies for all-in cloud and hybrid architectures.
   - **Links:** [Cloud Infrastructure Alley Talk: Video](https://www.youtube.com/watch?v=3sQqWnoRxCc&list=PLKqCo4MpJlW8hgxreoqmOBC59GwMWhYhe&index=14)<br>
-              [View Presentation]<br>(DAC_2019_design_infrastructure_alley_cloud_talk.pptx)<br>
+              [View Presentation](DAC_2019_design_infrastructure_alley_cloud_talk.pptx)<br>
               [Conference Program Guide](DAC/2019/56dac_program_final.pdf)
 
  - **Whitepaper Title:** Best Practices for Deploying SOS on AWS
