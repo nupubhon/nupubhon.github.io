@@ -6,8 +6,8 @@ Hey there! I'm Nupur Bhonge, an EDA Infrastructure Specialist with a passion for
 <br>Don't hesitate to drop me a line — I'm all ears for new ideas and adventures!
 
 You can reach me at -<br> 
-Email - bhonge.nupur@gmail.com<br>
-Linkedin - www.linkedin.com/in/nupurbhonge
+Email - (bhonge.nupur@gmail.com)<br>
+Linkedin - (www.linkedin.com/in/nupurbhonge)
 
 Innovative EDA Product Manager | Expertise in Design Infrastructure |  Co-Author of AWS-Cliosoft Whitepaper
 
