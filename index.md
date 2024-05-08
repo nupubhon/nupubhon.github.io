@@ -1,8 +1,6 @@
-# Welcome!
+# Nupur Bhonge<br>
 
-Hi, I'm Nupur!
-
-Hey there! I'm Nupur Bhonge, an EDA Infrastructure Specialist with a passion for blending tech know-how with creative solutions! I specialize in crafting efficient workflows and seamless architectures for the chip design universe, using EDA-specific workflows and diving deep into analog, digital, and mixed-signal realms. When I'm not orchestrating network symphonies, you'll find me embracing the chaos as a mom to a hyper-energetic and fun toddler, exploring the shelves of libraries, hiking trails, dancing to Indian Classical music, and showering love on every dog I meet.
+Hey there! I'm Nupur, an EDA Infrastructure Specialist with a passion for blending tech know-how with creative solutions! I specialize in crafting efficient workflows and seamless architectures for the chip design universe, using EDA-specific workflows and diving deep into analog, digital, and mixed-signal realms. When I'm not orchestrating network symphonies, you'll find me embracing the chaos as a mom to a hyper-energetic and fun toddler, exploring the shelves of libraries, hiking trails, dancing to Indian Classical music, and showering love on every dog I meet.
 <br>Don't hesitate to drop me a line — I'm all ears for new ideas and adventures!
 
 You can reach me at -<br> 
